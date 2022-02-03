@@ -104,6 +104,7 @@ const Giphy = () => {
 
         </ImageList>
     </Container>
+    consoloe.log(renderGifs)
 
    </div>
   
